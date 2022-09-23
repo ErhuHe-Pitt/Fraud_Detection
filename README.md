@@ -9,8 +9,6 @@ The dataset I used is “Credit Card Fraud Detection” from Kaggle.com (https:/
 
 Eight models I implemented are respectively Logistic Regression Model, Naive Bayes Model, Decision Tree Model, Random Forest Model, Isolation Forest Model, Elliptic Envelope Model, One-class SVM Model and Local Outlier Factor Model.
 
-Note that the code can successfully execute, but sometimes it takes a longer time with certain models (roughly 2 mins).
-
 =====================================================
 
 

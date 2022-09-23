@@ -19,11 +19,11 @@ PROJECT LANGUAGE IMPLEMENTATION
 I implemented the machine learning models with Python 3.6.8
 
 The packages I used for the term project are as below:
-•pandas. https://pandas.pydata.org/
-•numpy. https://numpy.org/
-•seaborn. https://seaborn.pydata.org/
-•matplotlib. https://matplotlib.org/
-•scikit-learn. https://scikit-learn.org/stable/
+* pandas. https://pandas.pydata.org/
+* numpy. https://numpy.org/
+* seaborn. https://seaborn.pydata.org/
+* matplotlib. https://matplotlib.org/
+* scikit-learn. https://scikit-learn.org/stable/
 
 
 ======================================================
